@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>
   <title>Campañas contra drogas en la escuela</title>
-  <link rel="stylesheet" type="text/css">
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
   <header>
@@ -10,7 +10,7 @@
   </header>
 
   <nav>
-<ul>
+    <ul>
       <li><a href="#">Inicio</a></li>
       <li><a href="#">Sobre nosotros</a></li>
       <li><a href="#">Campañas</a></li>
@@ -27,8 +27,8 @@
   <section>
     <h2>Beneficios de las campañas contra drogas en la escuela</h2>
     <ul>
-<li>Informan a los estudiantes sobre los efectos negativos de las drogas en el cuerpo y la mente.</li>
-      <li>Promueven formas de vida saludables y alternativas al consumo de drogas.</li>
+      <li>Informan a los estudiantes sobre los efectos negativos de las drogas en el cuerpo y la mente.</li>
+      <li>Promueven estilos de vida saludables y alternativas al consumo de drogas.</li>
       <li>Ayudan a los estudiantes a desarrollar habilidades para tomar decisiones informadas y resistir la presión de consumir drogas.</li>
       <li>Fomentan un entorno escolar seguro y de apoyo.</li>
       <li>Colaboran en la prevención del consumo de drogas entre los jóvenes.</li>
@@ -37,3 +37,18 @@
 
   <section>
     <h2>Cómo participar en las campañas contra drogas</h2>
+    <p>Si estás interesado en participar en las campañas contra drogas en tu escuela, puedes:</p>
+    <ul>
+      <li>Contactar al equipo encargado de las campañas en tu escuela.</li>
+      <li>Unirte a grupos estudiantiles que promueven estilos de vida saludables.</li>
+      <li>Participar en actividades y eventos relacionados con la prevención de drogas.</li>
+      <li>Crear conciencia compartiendo información sobre las campañas en tus redes sociales.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Derechos de autor &copy; 2023 | Campañas contra drogas en la escuela</p>
+  </footer>
+</body>
+</html>
+
