@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Campañas contra drogas en la escuela</title>
+  <link rel="stylesheet" type="text/css">
+</head>
+<body>
+  <header>
+    <h1>Campañas contra drogas en la escuela</h1>
+  </header>
+
+  <nav>
+<ul>
+      <li><a href="#">Inicio</a></li>
+      <li><a href="#">Sobre nosotros</a></li>
+      <li><a href="#">Campañas</a></li>
+      <li><a href="#">Contacto</a></li>
+    </ul>
+  </nav>
+
+  <section>
+    <h2>¿Qué son las campañas contra drogas en la escuela?</h2>
+    <p>Las campañas contra drogas en la escuela son iniciativas educativas diseñadas para informar y concienciar a los estudiantes sobre los peligros del consumo de drogas y promover un estilo de vida saludable y libre de drogas.</p>
+    <p>Estas campañas suelen incluir actividades como charlas, talleres, representaciones teatrales, concursos y eventos deportivos que promueven mensajes positivos y ayudan a los estudiantes a desarrollar habilidades para resistir la presión de consumir drogas.</p>
+  </section>
+
+  <section>
+    <h2>Beneficios de las campañas contra drogas en la escuela</h2>
+    <ul>
+<li>Informan a los estudiantes sobre los efectos negativos de las drogas en el cuerpo y la mente.</li>
+      <li>Promueven formas de vida saludables y alternativas al consumo de drogas.</li>
+      <li>Ayudan a los estudiantes a desarrollar habilidades para tomar decisiones informadas y resistir la presión de consumir drogas.</li>
+      <li>Fomentan un entorno escolar seguro y de apoyo.</li>
+      <li>Colaboran en la prevención del consumo de drogas entre los jóvenes.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Cómo participar en las campañas contra drogas</h2>
